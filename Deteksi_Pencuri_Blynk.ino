@@ -1,5 +1,5 @@
 /**********************************************
- Project : Smart Alarm Door (Blynk IoT)
+ Project : Deteksi Pencuri notif HP (Blynk IoT)
  Chip : WeMos D1 Mini
  Input : Sensor Magnet
  Output : Buzzer, LED
